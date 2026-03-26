@@ -14,7 +14,7 @@ It ensures smooth communication between the database and frontend using RESTful 
 
 ---
 
-
+## Features
 
 ###  Authentication & Authorization
 - Secure login system
