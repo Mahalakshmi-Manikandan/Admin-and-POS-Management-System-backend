@@ -105,4 +105,5 @@ DB_NAME=yourdatabase
 JWT_SECRET=yoursecretkey
 
 5️⃣ Run the server
+
 npm start
