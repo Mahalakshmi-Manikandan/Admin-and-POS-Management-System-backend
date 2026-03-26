@@ -59,10 +59,15 @@ It ensures smooth communication between the database and frontend using RESTful 
 
 backend/
 │── controllers/ # Business logic
+
 │── routes/ # API routes
+
 │── models/ # Database queries
+
 │── config/ # Database configuration
+
 │── middleware/ # Auth & validation
+
 │── server.js # Entry point
 
 
@@ -70,12 +75,20 @@ backend/
 ## Installation & Setup
 
 1️⃣ Clone the repository
+
 git clone https://github.com/Mahalakshmi-Manikandan/Admin-and-POS-Management-System-backend.git
+
 2️⃣ Navigate to project
+
+
 cd Admin-and-POS-Management-System-backend
+
 3️⃣ Install dependencies
+
 npm install
+
 4️⃣ Configure environment variables
+
 
 Create a .env file and add:
 
@@ -85,5 +98,6 @@ DB_USER=root
 DB_PASSWORD=yourpassword
 DB_NAME=yourdatabase
 JWT_SECRET=yoursecretkey
+
 5️⃣ Run the server
 npm start
