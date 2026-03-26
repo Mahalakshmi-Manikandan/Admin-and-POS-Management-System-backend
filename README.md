@@ -93,10 +93,15 @@ npm install
 Create a .env file and add:
 
 PORT=5000
+
 DB_HOST=localhost
+
 DB_USER=root
+
 DB_PASSWORD=yourpassword
+
 DB_NAME=yourdatabase
+
 JWT_SECRET=yoursecretkey
 
 5️⃣ Run the server
